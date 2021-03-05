@@ -54,12 +54,12 @@ GreenPlum).)
 ### Alliance IT and Concursoft, Backend Software Engineer Consultant, Bay Area, CA May-2011 - November-2016
 
 - General Electric: Worked as full stack engineer to develop new
-features for the Fleet Support project, and maintain existing features.
+features for the Fleet Support project and maintain existing features.
 Partnered in pair programming and followed strict TDD to design,
 implement and test new end to end features for Asset Performance
 Management.
 
-- Bank of America: Dened and constructed layers, server-side
+- Bank of America: Defined and constructed layers, server-side
 objects and client-side interfaces based on J2EE design patterns.
 Worked on the MySQL migration project. Worked on Spring MVC,
 Spring transactions, Spring security/Hibernate Applications.
@@ -85,14 +85,14 @@ service calls depending on the data passed to the web service. Used MQ
 series to create, send, receive and read messages. Prepared technical
 and Java API documentation.
 
-- Mayo Clinic: Analyzed use cases or technical specication prepared
+- Mayo Clinic: Analyzed use cases or technical specification prepared
 by the client. Interacted with the clients for suggesting use case
 optimization or clarifying use case scenario when required. Designed
 components in design document using best practices and J2EE design
 patterns such as Model-View. Controller (MVC), Data Access Object,
 Value Object, Front Controller and Business Delegate. Wrote JUnit test
 classes for DAO layer and tested each component. Coded & Modulated
-Documentation, review. Congured the entire application on Eclipse on
+Documentation, review. Configured the entire application on Eclipse on
 the development as well as production environment.
 
 ## EDUCATION
@@ -106,7 +106,7 @@ simulator (NS2) based on C++ and tcl, is used for simulation.
 - Simulation experiments and results collection and drawing initiated
 through the Perl scripting language.
 
-### Master in Computer Science, University of Ottawa, Ottawa, Ontario, 2006
+### Master's in Computer Science, University of Ottawa, Ottawa, Ontario, 2006
 - Quality of Service and Fault Tolerant Distributed Channel Allocation
 Protocols for Wireless and Mobile Networks.
 
@@ -120,8 +120,8 @@ support service of BFI
 - Data Science Green Belt (in progress)
 - Security Space Fleet (Security Green Belt)
 - Completed course: Developing Applications using Cisco Core Platforms and APIs (DEVNET DEVCOR)
-- Predix Developer Certicate 2017.
-- Machine Learning Certicate offered by Coursera/Stanford.
+- Predix Developer Certificate 2017.
+- Machine Learning Certificate offered by Coursera/Stanford.
 
 ## HONORS & AWARDS
 - NSERC DIVA Best Poster Presentation Award, University of Ottawa, ON, CANADA
@@ -167,9 +167,9 @@ https://dblp.org/pers/hd/a/Abrougui:Kaouther
 -  Officer at Cisco Speaks Toastmasters
 -  Founder of the Career Kickoff space to bring enthusiastic women together and drive them to achieve their career goals.
 -  Cisco Neo Panel
--  Community Member, Open Networking Laboratory, Menlo Park, CA, USAHelp with ONOS (Open Network Operating System)
-development (in Java) and testing(using open source TestON (in Python)). 2015
--  Member, SDN/NFV SIG Organize events for the Software Dened Networking/Network Functions Virtualization Special Interest
+-  Community Member, Open Networking Laboratory, Menlo Park, CA, USA. Help with ONOS (Open Network Operating System)
+development (in Java) and testing (using open source TestON (in Python)). 2015
+-  Member, SDN/NFV SIG Organize events for the Software Defined Networking/Network Functions Virtualization Special Interest
 Group. 2015
 
 ## RECOGNITION
@@ -181,7 +181,7 @@ Group. 2015
 - Participating is Techstars Startup Weekend and Hackathons.
 - Hiking
 - Audiobooks / Reading
-- Practice daily the Victory Hour (5am-6am): Excercise / Reflect / Grow
+- Practice daily the Victory Hour (5am-6am): Exercise / Reflect / Grow
 - Spartan: Earned Trifecta!
 
 ## LANGUAGES
