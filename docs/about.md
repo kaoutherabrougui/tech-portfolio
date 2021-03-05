@@ -50,7 +50,7 @@ Predix Cloud. (Java, Go, RabbitMQ, GreenPlum, Cassandra, Postgres)
 Managements. (Java, Springboot, golang, Oracle DB, Cassandra,
 GreenPlum).)
 
-### Alliance IT and Concursoft, Backend Software Engineer Consultant, Bay Area, CA May-2008 - November-2016
+### Alliance IT and Concursoft, Backend Software Engineer Consultant, Bay Area, CA May-2011 - November-2016
 
 - General Electric: Worked as full stack engineer to develop new
 features for the Fleet Support project, and maintain existing features.
