@@ -3,6 +3,7 @@ I am Kaouther Abrougui, a passionate, motivated, ambitious person. I believe tha
 I earned my PhD degree in 2011 in Computer Science and started my journey in research and development. There are 2 life lessons that I learned through my PhD journey, that I keep applying every day in my life and use to empower everyone around me: "Keep moving forward with eyes on your goal", "The greatest glory is not in never falling, but in rising every time we fall".
 
 I am passionate about learning, growing, and innovating. I believe in the power of persistence and perseverance.
+
 Motto: "Small daily improvements when done consistently over time lead to stunning results!"
 
 ## WORK EXPERIENCE
@@ -22,7 +23,7 @@ balancing and service discovery.
 - Collaborated with other teams to integrate host intrusion detection,
 vulnerability scanning features and provide CIS compliant PaaS.
 
-- Stemcell Hardening: Developed and rolled out the OS-Cong scripts
+- Stemcell Hardening: Developed and rolled out the OS-Config scripts
 that permitted to deliver NIST/ITAR compliant PaaS.
 
 - Set up the monitoring solution for Predix Container Service:
@@ -99,8 +100,8 @@ the development as well as production environment.
 - Design and Performance Evaluation of Service Discovery Protocols for
 Vehicular Networks.
 - Design and implementation of efficient service discovery protocols for
-vehicles within the NSERC DIVA project Developing Next Generation
-- Intelligent Vehicular Networks and Applications. The Network
+vehicles within the NSERC DIVA project Developing Next Generation Intelligent Vehicular Networks and Applications. 
+- The Network
 simulator (NS2) based on C++ and tcl, is used for simulation.
 - Simulation experiments and results collection and drawing initiated
 through the Perl scripting language.
@@ -117,7 +118,7 @@ support service of BFI
 ## CERTIFICATIONS & COURSES
 - ECornell ML Certificate (in progress)
 - Data Science Green Belt (in progress)
-- Completed course: Developing Applications using Cisco Core Platforms and APIs
+- Completed course: Developing Applications using Cisco Core Platforms and APIs (DEVNET DEVCOR)
 - Predix Developer Certicate 2017.
 - Machine Learning Certicate offered by Stanford.
 
@@ -176,6 +177,7 @@ Group. 2015
 ## HOBBIES
 - Growing by participating in career development and leadership programs: Women Inventor Network, Executive Shadow Program...
 - Learning about cutting edge and future technologies.
+- Participating is Techstars Startup Weekend and Hackathons.
 - Hiking
 - Audiobooks / Reading
 - Practice daily the Victory Hour (5am-6am): Excercise / Reflect / Grow
