@@ -118,9 +118,10 @@ support service of BFI
 ## CERTIFICATIONS & COURSES
 - ECornell ML Certificate (in progress)
 - Data Science Green Belt (in progress)
+- Security Space Fleet (Security Green Belt)
 - Completed course: Developing Applications using Cisco Core Platforms and APIs (DEVNET DEVCOR)
 - Predix Developer Certicate 2017.
-- Machine Learning Certicate offered by Stanford.
+- Machine Learning Certicate offered by Coursera/Stanford.
 
 ## HONORS & AWARDS
 - NSERC DIVA Best Poster Presentation Award, University of Ottawa, ON, CANADA
@@ -182,5 +183,11 @@ Group. 2015
 - Audiobooks / Reading
 - Practice daily the Victory Hour (5am-6am): Excercise / Reflect / Grow
 - Spartan: Earned Trifecta!
+
+## LANGUAGES
+- English (fluent)
+- Arabic (fluent)
+- French (fluent)
+- German (beginner)
 
 
